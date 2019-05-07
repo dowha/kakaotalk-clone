@@ -20,7 +20,7 @@
 }
 
 .chat__body {
-  min-height: 500vh;
+  min-height: 200vh;
   position: relative;
 }
 
